@@ -19,14 +19,14 @@
 
         "outerColor": [36, 57, 90],
         "innerColor": [255, 255, 255],
-        "uniqueName": "Land of the Free, Home of the Brave",
+        "uniqueName": "Xeno i need you",
         "uniques": [
             "Cannot build [Colonizer] units",
             "Notified of new Barbarian encampments",
             "When conquering an encampment, earn [300-1000] Gold and recruit a Barbarian unit",
-            "Starts with [Radiant Ideology] adopted",
-            "Starts with [Radiant Ideology] adopted",
-            "Starts with [Radiant Ideology] adopted",
+            "Free [Colonizer] appears <before turn number [1]>",
+            "May not annex cities",
+            "When defeating a [All] unit, earn [100-1000] Gold and recruit it",
             "Starts with [Radiant Ideology] adopted",
             "Starts with [Radiant Ideology] adopted",
             "Starts with [Radiant Ideology] adopted",
