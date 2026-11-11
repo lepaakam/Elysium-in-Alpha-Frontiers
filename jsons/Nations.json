@@ -23,10 +23,10 @@
         "uniques": [
             "Cannot build [Colonizer] units",
             "Notified of new Barbarian encampments",
-            "When conquering an encampment, earn [300-1000] Gold and recruit a Barbarian unit",
+            "When conquering an encampment, earn [300] Gold and recruit a Barbarian unit",
             "Free [Colonizer] appears <before turn number [1]>",
             "May not annex cities",
-            "When defeating a [All] unit, earn [100-1000] Gold and recruit it",
+            "When defeating a [All] unit, earn [100] Gold and recruit it",
             "Free [Overlord] appears <upon defeating a [Overlord] unit>",
             "Free [Leviathan] appears <upon defeating a [Leviathan] unit>",
             "Free [Ulfradrake] appears <upon defeating a [Ulfradrake] unit>",
