@@ -19,16 +19,14 @@
 "name": "Support",
 "uniqueTo": "Elysium",
 "unitType": "Armored",
-"cost": 75,
-"movement": 2,
-"strength": 25,
-"rangedStrength": 30,
-"range": 2,
-"requiredTech": "Next-Gen Armaments",
-"obsoleteTech": "Exoskeletons",
+"cost": 55,
+"movement": 3,
+"strength": 8,
+"rangedStrength": 15,
+"range": 3,
 "upgradesTo": "NBC Support",
 "hurryCostModifier": 20,
-"uniques": ["All adjacent units heal [15] HP when healing","[+10]% Strength bonus for [Military] units within [1] tiles"],
+"uniques": ["All adjacent units heal [15] HP when healing","[+10]% Strength bonus for [Military] units within [1] tiles","Heals [80] damage if it kills a unit","[100]% Strength <upon damaging a [Barbarians] unit>"],
 "attackSound": "tankshot"
 "civilopediaText": [{"text": "Mainly armored cars outfitted with a tank gun, these armored units support the main military."}]
     }
