@@ -10,7 +10,7 @@
 "range": 2,
 "obsoleteTech": "Next-Gen Armaments",
 "hurryCostModifier": 20,
-"uniques": ["Can instantly construct a [Barbarian encampment] improvement <by consuming this unit>"],
+"uniques": ["Can instantly construct a [Fort] improvement <by consuming this unit>"],
 "attackSound": "shot"
 "civilopediaText": [{"text": "Standard medical professionals, but with guns!"}]
     }
