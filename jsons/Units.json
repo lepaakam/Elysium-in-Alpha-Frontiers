@@ -3,7 +3,7 @@
 "name": "Medic",
 "uniqueTo": "Elysium",
 "unitType": "Infantry",
-"cost": 35,
+"cost": 60,
 "movement": 2,
 "strength": 6,
 "rangedStrength": 8,
