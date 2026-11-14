@@ -2,10 +2,10 @@
     {
 		"name": "Graveyard",
 		"uniqueTo": "Elysium",
-		"turnsToBuild": 6,
+		"turnsToBuild": 10,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
-			"Marks a barbarian camp",
+			"Marks a barbarian camp <after turn number [999]>",
 			"Can be built outside your borders"],
 		"shortcutKey": "G"
 	}
