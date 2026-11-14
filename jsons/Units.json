@@ -11,7 +11,7 @@
 "obsoleteTech": "Next-Gen Armaments",
 "upgradesTo": "Support",
 "hurryCostModifier": 20,
-"uniques": ["All adjacent units heal [15] HP when healing"],
+"uniques": ["Can instantly construct a [Citadel] improvement <by consuming this unit>"],
 "attackSound": "shot"
 "civilopediaText": [{"text": "Standard medical professionals, but with guns!"}]
     }
