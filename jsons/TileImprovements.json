@@ -1,0 +1,13 @@
+[
+    {
+		"name": "Graveyard",
+		"uniqueTo": "The Undead",
+		"turnsToBuild": 6,
+		"terrainsCanBeBuiltOn": ["All"],
+		"uniques": [
+			"Marks a barbarian camp",
+			"Can be built outside your borders"],
+		"techRequired": "Agriculture",
+		"shortcutKey": "G"
+	}
+]
