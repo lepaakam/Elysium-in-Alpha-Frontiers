@@ -3,11 +3,10 @@
 		"name": "Graveyard",
 		"uniqueTo": "Elysium",
 		"turnsToBuild": 6,
-		"terrainsCanBeBuiltOn": ["All"],
+		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 			"Marks a barbarian camp",
 			"Can be built outside your borders"],
-		"techRequired": "Agriculture",
 		"shortcutKey": "G"
 	}
 ]
